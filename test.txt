@@ -1,4 +1,3 @@
 abc abc abc
 abc testing testing
 hello world
-waste git
